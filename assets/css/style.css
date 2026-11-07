@@ -27,3 +27,15 @@ nav a {
     text-decoration: none;
     margin-left: 20px;
 }
+.content p {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.content button {
+    padding: 12px 25px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
