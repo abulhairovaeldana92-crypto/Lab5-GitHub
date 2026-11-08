@@ -8,3 +8,4 @@
 ## Инструкция
 Работа выполняется согласно дополнительному руководству.
 Changes in new-branch
+Second update in new-branch
